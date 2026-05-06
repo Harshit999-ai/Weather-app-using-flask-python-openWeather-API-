@@ -2,7 +2,7 @@
 from flask import Flask,render_template,request
 from weather_fetcher import get_weather
 
-weather_api = "e5ee67b7cc420de7a779275e0ac8895e"
+weather_api = "YOUR_OWN_OPEN_WEATHER_MAP_API"#get your own openweathermap api and put that here
 
 app = Flask(__name__)
 
