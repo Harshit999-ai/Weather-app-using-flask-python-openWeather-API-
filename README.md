@@ -12,7 +12,6 @@ A simple and clean weather web application built using **Flask** that fetches re
 * ⚡ Fast and lightweight Flask backend
 * 🎨 Clean and responsive UI
 * ❌ Error handling for invalid city names
-* 🌙 Optional dark mode support (if implemented)
 
 ---
 
